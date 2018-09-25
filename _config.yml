@@ -2,20 +2,20 @@ title: Hacker101
 description: Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 author:
   name: HackerOne
-  twitter: Hacker0x01
-google_analytics: UA-49905813-8
+  twitter: linuxsec_org
+google_analytics: UA-69016145-2
 markdown: kramdown
 url: https://hacker101.linuxsec.org/
 twitter:
   username: linuxsec_org
 facebook:
-  app_id: 345444188982280
+  app_id: 1527655344224130
 social:
   links:
-    - https://twitter.com/Hacker0x01
-    - https://www.facebook.com/Hacker0x01
-    - https://www.linkedin.com/company/hackerone
-    - https://github.com/Hacker0x01
+    - https://twitter.com/linuxsec_org
+    - https://facebook.linuxsec.org
+    - https://www.linkedin.com/company/linuxsecorg
+    - https://github.com/linuxsec
 logo: /assets/images/h101_angle.png
 plugins:
   - jekyll-seo-tag
